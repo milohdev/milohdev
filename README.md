@@ -15,7 +15,7 @@
 ```csharp
 var juanCamilo = new Developer
 {
-    Name       = "Juan Camilo",
+    Name       = "Juan Camilo Hernández",
     Role       = "Computer Software Engineering | Backend Developer",
     Training   = "RIWI",
     Location   = "Medellín, Colombia 🇨🇴",
