@@ -16,7 +16,7 @@
 var juanCamilo = new Developer
 {
     Name       = "Juan Camilo",
-    Role       = "Systems Engineer | Full Stack & Mobile Developer",
+    Role       = "Computer Software Engineering | Backend Developer",
     Training   = "RIWI",
     Location   = "Medellín, Colombia 🇨🇴",
     Passion    = "Building clean, scalable software from backend to mobile",
