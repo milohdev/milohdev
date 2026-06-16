@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- HEADER BANNER -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;color=512BD4&amp;height=180&amp;section=header&amp;text=Juan%20Camilo&amp;fontSize=52&amp;fontColor=E5E0FF&amp;fontAlignY=38&amp;desc=Computer%20Software%20Engineering%20%7C%20Backend%20%7C%%20Developer&amp;descAlignY=60&amp;descColor=C084FC" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;color=512BD4&amp;height=180&amp;section=header&amp;text=Juan%20Camilo&amp;fontSize=52&amp;fontColor=E5E0FF&amp;fontAlignY=38&amp;desc=Computer%20Software%20Engineering%20%7C%20Backend Developer&amp;descAlignY=60&amp;descColor=C084FC" />
 
 <!-- TYPING ANIMATION -->
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=512BD4&center=true&vCenter=true&width=600&lines=Building+with+C%23+%26+.NET+Core;Full+Stack+%7C+React+%2B+ASP.NET;Mobile+Dev+with+Flutter+%26+Dart;Dockerized+%7C+CI%2FCD+%7C+Cloud-Ready;RIWI+Systems+Engineer)](https://git.io/typing-svg)
