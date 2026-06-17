@@ -18,10 +18,10 @@ var juanCamilo = new Developer
     Role       = "Computer Software Engineering | Backend Developer",
     Training   = "RIWI",
     Location   = "Medellín, Colombia 🇨🇴",
-    Passion    = "Building clean, scalable software from backend to mobile",
+    Passion    = "Building clean, scalable software from backend",
     CurrentlyWorking = new[] { "Firmeza (ASP.NET + PostgreSQL)", "Cosmos Tickets (POS System)" },
     LearningNow = new[] { "RAG Pipelines", "Model Context Protocol (MCP)", "Advanced Docker" },
-    OpenTo     = "Junior & Mid-level opportunities in Backend / Full Stack / Mobile"
+    OpenTo     = "Junior & Mid-level opportunities in Backend / Full Stack "
 };
 ```
 
