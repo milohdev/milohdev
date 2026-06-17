@@ -103,14 +103,14 @@ var juanCamilo = new Developer
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=tokyonight&title_color=512BD4&icon_color=9B4F96&text_color=E5E0FF&bg_color=0D1117&border_color=512BD4&hide_border=false&count_private=true" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&theme=tokyonight&title_color=512BD4&text_color=E5E0FF&bg_color=0D1117&border_color=512BD4&langs_count=8" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=milohdev&show_icons=true&theme=tokyonight&title_color=512BD4&icon_color=9B4F96&text_color=E5E0FF&bg_color=0D1117&border_color=512BD4&hide_border=false&count_private=true" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=milohdev&layout=compact&theme=tokyonight&title_color=512BD4&text_color=E5E0FF&bg_color=0D1117&border_color=512BD4&langs_count=8" />
 
 </div>
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=TU_USUARIO&theme=tokyonight&hide_border=false&border=512BD4&ring=512BD4&fire=C084FC&currStreakLabel=E5E0FF&sideLabels=E5E0FF&dates=9B4F96&background=0D1117)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=milohdev&theme=tokyonight&hide_border=false&border=512BD4&ring=512BD4&fire=C084FC&currStreakLabel=E5E0FF&sideLabels=E5E0FF&dates=9B4F96&background=0D1117)](https://git.io/streak-stats)
 
 </div>
 
@@ -120,7 +120,7 @@ var juanCamilo = new Developer
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=TU_USUARIO&theme=tokyonight&column=7&margin-w=10&no-bg=true&title_color=512BD4)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=milohdev&theme=tokyonight&column=7&margin-w=10&no-bg=true&title_color=512BD4)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
@@ -130,7 +130,7 @@ var juanCamilo = new Developer
 
 <div align="center">
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=TU_USUARIO&bg_color=0D1117&color=C084FC&line=512BD4&point=E5E0FF&area=true&hide_border=false&border_color=512BD4)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=milohdev&bg_color=0D1117&color=C084FC&line=512BD4&point=E5E0FF&area=true&hide_border=false&border_color=512BD4)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 
@@ -140,7 +140,7 @@ var juanCamilo = new Developer
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/TU_USUARIO)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/milohdev)
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tu@email.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-512BD4?style=for-the-badge&logo=vercel&logoColor=white)](https://tu-portfolio.com)
 
@@ -150,7 +150,7 @@ var juanCamilo = new Developer
 
 <div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=TU_USUARIO&label=Visitas+al+perfil&color=512BD4&style=for-the-badge" alt="profile views" />
+<img src="https://komarev.com/ghpvc/?username=milohdev&label=Visitas+al+perfil&color=512BD4&style=for-the-badge" alt="profile views" />
 
 <!-- FOOTER WAVE -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=512BD4&height=100&section=footer&fontColor=E5E0FF" />
