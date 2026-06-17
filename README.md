@@ -140,7 +140,7 @@ var juanCamilo = new Developer
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/milohdev)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jcamilo-hernandez/)
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tu@email.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-512BD4?style=for-the-badge&logo=vercel&logoColor=white)](https://tu-portfolio.com)
 
