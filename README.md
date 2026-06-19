@@ -69,7 +69,8 @@ var juanCamilo = new Developer
         <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"/>
         <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
         <img src="https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Redis-FF4438?style=flat-square&logo=redis&logoColor=red"/>
+        <img src="https://img.shields.io/badge/Redis-FF4438?style=flat-square&logo=redis&logoColor=white"/>
+        <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
       </p>
       <p>
         Plataforma bancaria multitenant desarrollada en hackathon. Aislamiento estricto de datos por institución, idempotencia en operaciones financieras, trazabilidad con Correlation-ID y soporte multimoneda. Backend en ASP.NET Core; app móvil complementaria en Flutter (no incluida en este repo).
