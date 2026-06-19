@@ -95,22 +95,6 @@ var juanCamilo = new Developer
         </a>
       </p>
     </td>
-    <td width="50%">
-      <h3 align="center">🏗️ Firmeza</h3>
-      <p align="center">
-        <img src="https://img.shields.io/badge/ASP.NET_Core-512BD4?style=flat-square&logo=dotnet&logoColor=white"/>
-        <img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white"/>
-        <img src="https://img.shields.io/badge/EF_Core-9B4F96?style=flat-square&logo=dotnet&logoColor=white"/>
-      </p>
-      <p>
-        Sistema de ventas y distribución de materiales de construcción. Incluye modelado de entidades, EF Core + PostgreSQL, Identity con RBAC y dashboard administrativo.
-      </p>
-      <p align="center">
-        <a href="https://github.com/tu-usuario/firmeza">
-          <img src="https://img.shields.io/badge/Ver_Repositorio-512BD4?style=for-the-badge&logo=github&logoColor=white"/>
-        </a>
-      </p>
-    </td>
   </tr>
 </table>
 
