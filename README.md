@@ -93,7 +93,7 @@ var juanCamilo = new Developer
       <p>
     Sistema de gestión de venta de boletas para un teatro, dividido en 4 portales independientes: taquilla virtual (con OAuth de Google), panel administrativo, taquilla física y control de     acceso. Incluye autenticación dual (email/Google), generación y validación de códigos QR antifraude en tiempo real, sistema de permisos granular por empleado, y sincronización             automática entre venta presencial y digital.
       <p align="center">
-        <a href="[https://github.com/CosmosRiwi](https://github.com/milohdev/multi-portal-theater)">
+        <a href="https://github.com/milohdev/multi-portal-theater">
           <img src="https://img.shields.io/badge/Ver_Repositorio-512BD4?style=for-the-badge&logo=github&logoColor=white"/>
         </a>
       </p>
