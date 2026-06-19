@@ -62,7 +62,7 @@ var juanCamilo = new Developer
 
 <table>
   <tr>
-      <td width="50%">
+    <td width="50%">
       <h3 align="center">🏦 Vortex (BankOS)</h3>
       <p align="center">
         <img src="https://img.shields.io/badge/ASP.NET_Core-512BD4?style=flat-square&logo=dotnet&logoColor=white"/>
@@ -71,7 +71,7 @@ var juanCamilo = new Developer
         <img src="https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white"/>
       </p>
       <p>
-        Plataforma bancaria multitenant desarrollada en hackathon de 10 horas. Aislamiento estricto de datos por institución, idempotencia en operaciones financieras, trazabilidad con Correlation-ID y soporte multimoneda. Backend en ASP.NET Core; app móvil complementaria en Flutter (no incluida en este repo).
+        Plataforma bancaria multitenant desarrollada en hackathon. Aislamiento estricto de datos por institución, idempotencia en operaciones financieras, trazabilidad con Correlation-ID y soporte multimoneda. Backend en ASP.NET Core; app móvil complementaria en Flutter (no incluida en este repo).
       </p>
       <p align="center">
         <a href="https://github.com/milohdev/vortex">
