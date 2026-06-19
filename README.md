@@ -86,14 +86,14 @@ var juanCamilo = new Developer
       <h3 align="center">🎬 Cosmos Tickets</h3>
       <p align="center">
         <img src="https://img.shields.io/badge/ASP.NET_Core-512BD4?style=flat-square&logo=dotnet&logoColor=white"/>
-        <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
+        <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white"/>
         <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
+        <img src="https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white"/>
       </p>
       <p>
-        POS cinematográfico con autenticación JWT, roles RBAC, arquitectura RESTful y despliegue mediante Docker + Nginx. Frontend en React + Zustand + Tailwind v4.
-      </p>
+    Sistema de gestión de venta de boletas para un teatro, dividido en 4 portales independientes: taquilla virtual (con OAuth de Google), panel administrativo, taquilla física y control de     acceso. Incluye autenticación dual (email/Google), generación y validación de códigos QR antifraude en tiempo real, sistema de permisos granular por empleado, y sincronización             automática entre venta presencial y digital.
       <p align="center">
-        <a href="https://github.com/CosmosRiwi">
+        <a href="[https://github.com/CosmosRiwi](https://github.com/milohdev/multi-portal-theater)">
           <img src="https://img.shields.io/badge/Ver_Repositorio-512BD4?style=for-the-badge&logo=github&logoColor=white"/>
         </a>
       </p>
